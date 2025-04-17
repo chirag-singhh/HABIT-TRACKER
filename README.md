@@ -20,8 +20,11 @@ A simple and intuitive **Habit Tracker** web application built using **React.js*
 
 ## 📸 Screenshots
 
-> *(Include screenshots here if you have them)*  
-> You can use tools like `Lightshot`, `Snipping Tool`, or `Command + Shift + 4` (Mac) to take screenshots.
+![Screenshot 2025-04-17 075052](https://github.com/user-attachments/assets/cf76fc84-1e56-4773-92d0-0ffeb20d6faa)
+![Screenshot 2025-04-17 075113](https://github.com/user-attachments/assets/c8cffa95-012f-49e6-b89d-604f9387329d)
+![Screenshot 2025-04-17 075540](https://github.com/user-attachments/assets/959872c5-47d8-4408-864c-91b7bf50d46e)
+
+
 
 ## 🚀 Getting Started
 
@@ -40,7 +43,18 @@ npm install
 npm run start
 ```
 ## 📌 Future Improvements
-🔔 Notifications/reminders
-📈 Habit analytics dashboard
-🗂️ Category-wise habit grouping
-🔐 User authentication and cloud sync
+
+- 🔔 Notifications/reminders
+- 📈 Habit analytics dashboard
+- 🗂️ Category-wise habit grouping
+- 🔐 User authentication and cloud sync
+
+## 👤 Author
+
+- Sneha Singh
+- GitHub - https://github.com/Sneha-singhh
+- LinkedIn- https://www.linkedin.com/in/sneha-singh-899714310/
+
+- Chirag Singh
+- GitHub - https://github.com/chirag-singhh
+- LinkedIn- https://www.linkedin.com/in/chirag-singh-799806300/
